@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="funcSenhaTest" tests="1" skipped="0" failures="0" errors="0" timestamp="2022-03-09T17:16:31" hostname="RT-PC" time="0.042">
+  <properties/>
+  <testcase name="verificarCaracterTest()" classname="funcSenhaTest" time="0.042"/>
+  <system-out><![CDATA[O caractere especial foi colocado na senha digitada.
+Falta um caractere especial na senha digitada.
+]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>
